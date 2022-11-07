@@ -63,3 +63,4 @@ kubectl apply -f calico.yaml
 sudo apt-get install bash-completion -y
 source <(kubectl completion bash)
 echo "source <(kubectl completion bash)" >> $HOME/.bashrc
+source ~/.bashrc
