@@ -1,2 +1,1 @@
-# k8s
-kubernetes
+Files required to init Kubernetes cluster on Ubuntu 20.04
